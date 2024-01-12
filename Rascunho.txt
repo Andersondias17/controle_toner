@@ -1,0 +1,59 @@
+- 03/01/20023
+
+-Banco de dados : 
+ Tabela Json 
+
+-Front end:
+ HTML
+
+-Front end - Linguagen de programação:
+ Java script : (no futuro)
+
+-Back end
+ PHP
+  
+
+- HTML -> PHP -> Banco de dados 
+
+
+-- wamp ----
+-apache                - localhost c:\wamp63\wwww
+-php			
+-banco de dados (Mysql)
+
+
+--radial-----------------
+-apache 192.1.1.33
+
+-php 192.1.1.33  -linguagem de back end
+-c#		 -linguagem de back end
+-Java		 -linguagem de back end
+
+-banco de dados 192.1.1.3
+--------------------------
+
+===TABELAS=====
+-TONER
+ TON_CODIGO N
+ TON_DESCRI T
+ TON_ESTOQUE_MINIMO N
+
+-TONER_ENT
+ TON_CODIGO
+ TOE_DESCRI,
+ TOE_DATA
+ TOE_QTDADE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
